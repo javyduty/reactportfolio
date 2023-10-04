@@ -1,0 +1,17 @@
+.about-me-section {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #97cae7;
+    border-radius: 8px;
+  }
+  
+  .about-me-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .about-me-section p {
+    margin-bottom: 15px;
+  }
+  
