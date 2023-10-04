@@ -2,7 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookSquare, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import './Contact.css';
-import profileImage from '../image/profile.jpeg'
+import profileImage from './image/profile.jpeg'
 
 const Contact = () => {
   return (
