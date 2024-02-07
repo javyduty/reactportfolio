@@ -11,9 +11,15 @@ const Projects = () => {
     },
     {
       title: 'Cloud Formation Templates',
-      description: 'Chatting application that can handle multiple users alerts users when new user joins chat alerts users when user signs out catalogs sent messages by users.',
+      description: 'Cloud formation templates for different infrastructure & resource deployments.',
       githubLink: 'https://github.com/javyduty/cloud-formation',
       imageUrl: 'https://seeklogo.com/images/A/aws-cloudformation-logo-11F173F931-seeklogo.com.png',
+    },
+    {
+      title: 'Microservices Example',
+      description: 'A microservice application with continuous integration and continuous deployment solution.',
+      githubLink: 'https://github.com/javyduty/microservice',
+      imageUrl: 'https://images.unsplash.com/photo-1667372459567-3853510dd5ce?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
   ];
 
